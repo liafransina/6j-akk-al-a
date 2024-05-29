@@ -1,0 +1,407 @@
+.unsplashcc7eabufp8y-icon1 {
+  align-self: stretch;
+  height: 17.688rem;
+  position: relative;
+  border-radius: var(--br-6xl);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.menghargai-kearifan-lokal1,
+.transaksi-noken1 {
+  margin: 0;
+}
+.transaksi-noken-menghargai-container1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.masuk-inner,
+.unsplashcc7eabufp8y-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.unsplashcc7eabufp8y-group {
+  align-self: stretch;
+  align-items: flex-end;
+}
+.masuk-inner {
+  width: 21.563rem;
+  align-items: flex-start;
+  padding: 9.312rem 0 0;
+  box-sizing: border-box;
+  min-width: 21.563rem;
+}
+.frame-child1 {
+  align-self: stretch;
+  height: 41.313rem;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  display: none;
+}
+.daftar2,
+.masuk2 {
+  margin: 0;
+  position: relative;
+  font-family: var(--font-arimo);
+  text-align: center;
+  z-index: 1;
+}
+.masuk2 {
+  width: 11.625rem;
+  font-size: 2.813rem;
+  font-weight: 700;
+  color: var(--color-gray-800);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.daftar2 {
+  align-self: stretch;
+  font-size: var(--font-size-11xl);
+  font-weight: 400;
+  color: var(--color-forestgreen);
+  cursor: pointer;
+}
+.daftar-wrapper,
+.masuk-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.daftar-wrapper {
+  width: 7.813rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+}
+.masuk-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.no-telepon-atau1 {
+  width: 12.625rem;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arimo);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.phone-input,
+.phone-input-background {
+  align-self: stretch;
+  flex: 1;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.phone-input-background {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-snow-400);
+  border: 1px solid var(--color-black);
+  z-index: 1;
+}
+.phone-input {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 var(--padding-12xs);
+}
+.kata-sandi1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arimo);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  min-width: 6.125rem;
+  z-index: 1;
+}
+.password-input1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+}
+.phone-input-child {
+  border: 1px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-snow-400);
+  height: 4.125rem;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  min-width: 15.625rem;
+  max-width: 100%;
+  z-index: 1;
+}
+.phone-input1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.login-form,
+.no-telepon-atau-email-parent,
+.phone-input1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.no-telepon-atau-email-parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 0.543rem;
+}
+.login-form {
+  width: 30.563rem;
+  height: 13.063rem;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lg) var(--padding-8xs);
+  box-sizing: border-box;
+}
+.lupa-kata-sandi {
+  width: 9.313rem;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arimo);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.lupa-kata-sandi-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.frame-child2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-snow-400);
+  border: 1px solid var(--color-black);
+  z-index: 1;
+}
+.frame-container,
+.frame-div {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frame-container {
+  width: 30.25rem;
+  height: 5.875rem;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lg);
+  box-sizing: border-box;
+}
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.login-button-background {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-snow-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.login-button-background-wrapper {
+  width: 29.75rem;
+  height: 5.125rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-sm) var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child3 {
+  height: 4rem;
+  width: 28rem;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lavender);
+  display: none;
+  max-width: 100%;
+}
+.masuk3 {
+  width: 7.813rem;
+  position: relative;
+  font-size: var(--font-size-14xl);
+  display: inline-block;
+  font-family: var(--font-arimo);
+  color: var(--color-darkslateblue);
+  text-align: center;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 2;
+}
+.frame-button,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-smi)
+    var(--padding-2xl);
+  background-color: var(--color-lavender);
+  flex: 1;
+  border-radius: var(--br-3xs);
+  justify-content: center;
+  z-index: 1;
+}
+.frame-button:hover {
+  background-color: var(--color-lightsteelblue);
+}
+.frame-wrapper1 {
+  width: 30.25rem;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lg);
+}
+.masuk1,
+.rectangle-container {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-container {
+  margin: 0;
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-darkgray-100);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-10xl) var(--padding-11xs) var(--padding-20xl) 0;
+  gap: var(--gap-10xl);
+  min-width: 20.5rem;
+  max-width: 100%;
+}
+.masuk1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-32xl) var(--padding-54xl) var(--padding-32xl) 6.125rem;
+  gap: 11.125rem;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+  font-family: var(--font-petrona);
+}
+@media screen and (max-width: 975px) {
+  .masuk-inner {
+    flex: 1;
+  }
+  .masuk1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 950px) {
+  .masuk2 {
+    font-size: 2.25rem;
+  }
+  .daftar2 {
+    font-size: var(--font-size-5xl);
+  }
+  .masuk3 {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 700px) {
+  .masuk-inner {
+    padding-top: var(--padding-78xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .rectangle-container {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .masuk1 {
+    gap: var(--gap-70xl);
+    padding-left: var(--padding-30xl);
+    padding-right: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .transaksi-noken-menghargai-container1 {
+    font-size: var(--font-size-3xl);
+  }
+  .masuk2 {
+    font-size: var(--font-size-8xl);
+  }
+  .daftar2 {
+    font-size: var(--font-size-lg);
+  }
+  .masuk-parent {
+    flex-wrap: wrap;
+  }
+  .kata-sandi1,
+  .lupa-kata-sandi,
+  .no-telepon-atau1 {
+    font-size: var(--font-size-base);
+  }
+  .masuk3 {
+    font-size: var(--font-size-xl);
+  }
+  .masuk1 {
+    gap: var(--gap-25xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

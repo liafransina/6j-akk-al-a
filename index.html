@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Petrona:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Salsa:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Archivo Black:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arbutus Slab:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Aoboshi One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abhaya Libre ExtraBold:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="daftar">
+      <div class="daftar-inner">
+        <div class="unsplashcc7eabufp8y-parent">
+          <img
+            class="unsplashcc7eabufp8y-icon"
+            loading="lazy"
+            alt=""
+            src="./public/unsplashcc7eabufp8y@2x.png"
+          />
+
+          <h3 class="transaksi-noken-menghargai-container">
+            <p class="transaksi-noken">Transaksi Noken</p>
+            <p class="menghargai-kearifan-lokal">Menghargai Kearifan Lokal</p>
+          </h3>
+        </div>
+      </div>
+      <form class="rectangle-parent">
+        <div class="frame-child"></div>
+        <div class="frame-wrapper">
+          <div class="primary-button-content-parent">
+            <div class="primary-button-content">
+              <div class="primary-button-label-parent">
+                <div class="primary-button-label">
+                  <h1 class="daftar-sekarang">Daftar Sekarang</h1>
+                </div>
+                <div class="sudah-punya-akun-noken-story-parent">
+                  <div class="sudah-punya-akun">
+                    Sudah punya akun Noken Story?
+                  </div>
+                  <div class="masuk" id="masukText">Masuk</div>
+                </div>
+              </div>
+            </div>
+            <div class="google-auth-content-wrapper">
+              <button class="google-auth-content">
+                <div class="google-auth-content-child"></div>
+                <img
+                  class="flat-color-iconsgoogle"
+                  alt=""
+                  src="./public/flatcoloriconsgoogle.svg"
+                />
+
+                <div class="google-auth-label">
+                  <div class="google">Google</div>
+                </div>
+              </button>
+            </div>
+            <div class="divider-content-parent">
+              <div class="divider-content">
+                <div class="divider-content-inner">
+                  <div class="frame-parent">
+                    <div class="line-wrapper">
+                      <div class="frame-item"></div>
+                    </div>
+                    <div class="atau-daftar-dengan">atau daftar dengan</div>
+                    <div class="line-container">
+                      <div class="frame-inner"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="no-telepon-atau">No Telepon atau Email</div>
+              </div>
+              <div class="contact-input-wrapper">
+                <input class="contact-input" type="text" />
+              </div>
+            </div>
+            <div class="kata-sandi-parent">
+              <div class="kata-sandi">Kata Sandi</div>
+              <div class="password-input-container">
+                <div class="password-input"></div>
+              </div>
+            </div>
+            <div class="konfirmasi-kata-sandi-parent">
+              <div class="konfirmasi-kata-sandi">Konfirmasi Kata Sandi</div>
+              <div class="confirm-password-input-contain">
+                <div class="confirm-password-input"></div>
+              </div>
+            </div>
+            <div class="daftar-sebagai-parent">
+              <div class="daftar-sebagai">Daftar sebagai</div>
+              <div class="user-type-selection-value">
+                <div class="user-type-selection-value-child"></div>
+                <input
+                  class="pembeli-atau-penjual"
+                  placeholder="Pembeli atau Penjual"
+                  type="text"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="rectangle-group">
+          <div class="rectangle-div"></div>
+          <b class="daftar1" id="daftarText">Daftar</b>
+        </button>
+        <div class="dengan-mendaftar-saya-menyetu-wrapper">
+          <div class="dengan-mendaftar-saya-container">
+            <p class="dengan-mendaftar-saya">
+              Dengan mendaftar, saya menyetujui
+            </p>
+            <p class="syarat-dan-ketentuan-serta-keb">
+              <span class="syarat-dan-ketentuan">Syarat dan Ketentuan</span>
+              <span class="serta"> serta </span>
+              <span class="kebijakan-privasi">Kebijakan Privasi</span>
+            </p>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <script>
+      var masukText = document.getElementById("masukText");
+      if (masukText) {
+        masukText.addEventListener("click", function (e) {
+          window.location.href = "./masuk.html";
+        });
+      }
+      
+      var daftarText = document.getElementById("daftarText");
+      if (daftarText) {
+        daftarText.addEventListener("click", function (e) {
+          window.location.href = "./masuk.html";
+        });
+      }
+      </script>
+  </body>
+</html>
